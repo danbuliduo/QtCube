@@ -100,14 +100,6 @@ Component{
                     height: 36
                     fillcolor: "#41CD52"
                     scale: mouseArea.pressed ? 0.8 : 1.0
-                   /* ScaleAnimator{
-                         id:animation
-                         target: parent
-                         duration: 200
-                         easing.type: Easing.OutBounce
-                         from: 0.8
-                         to: 1
-                     }*/
                     RectangularGlow{
                         anchors.centerIn: parent
                         width: parent.width - 8
@@ -135,7 +127,6 @@ Component{
                         anchors.fill: parent
                         onClicked: {
                             AppActivities.clickedActivity(0)
-                           // animation.start()
                             application.stackviewPUSH(objectmodel.get(index))
                         }
                     }
