@@ -9,8 +9,15 @@
 </p>
 &emsp;
 
+<<<<<<< HEAD
 # **安卓APP演示界面**
 ## *多个主题、多种组件、多类工具*
+=======
+---
+
+## APP演示界面
+### 多种主题、多种组件
+>>>>>>> 9e8f44f2004bf197bc5ad9a0ec7aea72af13bd9a
 <p align="center">
     <img src="Image/phone-1.png" >
     <img src="Image/phone-3.png" >
