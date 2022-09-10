@@ -5,24 +5,15 @@
 <p align="center">
     <img src="Image/lgplv3-147x51.png" >&emsp;
     <img src="Image/builtwidthqt.png" ><br/>
-    QtCube使用Qt6构建，推荐的QT版本：Qt Version > Qt 6.2.0
 </p>
 &emsp;
 
-<<<<<<< HEAD
 # **安卓APP演示界面**
 ## *多个主题、多种组件、多类工具*
-=======
----
-
-## APP演示界面
-### 多种主题、多种组件
->>>>>>> 9e8f44f2004bf197bc5ad9a0ec7aea72af13bd9a
 <p align="center">
     <img src="Image/phone-1.png" >
     <img src="Image/phone-3.png" >
 </p>
-
 
 # **如何使用**
 ##  ***使用QMake进行构建-[CubeAndroid]***
