@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CubeQuick/Controls/qmldir</file>
+        <file>CubeQuick/Controls/CubeTabButton.qml</file>
+        <file>CubeQuick/Controls/CubeTabBar.qml</file>
+        <file>CubeQuick/Controls/CubeGlowRectangle.qml</file>
+        <file>CubeQuick/Controls/CubeElevationRectangle.qml</file>
+        <file>CubeQuick/Effects/MediaEffect/CubeAuduoOutputEffect.qml</file>
+        <file>CubeQuick/Effects/MediaEffect/qmldir</file>
+        <file>CubeQuick/Controls/LoadingIndicator/qmldir</file>
+        <file>CubeQuick/Controls/LoadingIndicator/CubePulseBlocksIndicator.qml</file>
+        <file>CubeQuick/Controls/LoadingIndicator/CubeTopplingBlocksIndicator.qml</file>
+        <file>CubeQuick/Controls/Dialog/qmldir</file>
+        <file>CubeQuick/Controls/Dialog/CubeDialogTemplate.qml</file>
+        <file>+Resource/Icon/close.svg</file>
+        <file>CubeQuick/Controls/Dialog/CubeMessageDialog.qml</file>
+        <file>CubeQuick/Controls/Dialog/CubeFontDialog.qml</file>
+        <file>CubeQuick/Controls/Dialog/CubeColorDialog.qml</file>
+        <file>CubeQuick/Controls/CubeCheckBox.qml</file>
+        <file>CubeQuick/Controls/LoadingIndicator/CubeGradientCircleIndicator.qml</file>
+        <file>CubeQuick/Controls/LoadingIndicator/CubeFlipBlockIndicator.qml</file>
+        <file>CubeQuick/Controls/LoadingIndicator/CubeQuickLoadingIndicator.qml</file>
+        <file>CubeQuick/Views/PathView/Cube3DCarousel.qml</file>
+        <file>CubeQuick/Views/PathView/qmldir</file>
+        <file>CubeQuick/Views/PathView/Cube2DCarousel.qml</file>
+        <file>CubeQuick/Controls/CubeOpacityMaskItem.qml</file>
+        <file>CubeQuick/Controls/CubeFastBlurItem.qml</file>
+    </qresource>
+</RCC>

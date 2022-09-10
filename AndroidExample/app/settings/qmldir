@@ -1,0 +1,4 @@
+﻿module app.settings
+singleton AppActivities 1.0 AppActivities.qml
+singleton AppConfigs 1.0 AppConfigs.qml
+singleton AppSettings 1.0 AppSettings.qml

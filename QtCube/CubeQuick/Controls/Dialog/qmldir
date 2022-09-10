@@ -1,0 +1,5 @@
+﻿module CubeQuick.Controls.Dialog
+CubeColorDialog 1.0 CubeColorDialog.qml
+CubeDialogTemplate 1.0 CubeDialogTemplate.qml
+CubeFontDialog 1.0 CubeFontDialog.qml
+CubeMessageDialog 1.0 CubeMessageDialog.qml

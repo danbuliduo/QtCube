@@ -1,0 +1,6 @@
+﻿module CubeQuick.Controls.LoadingIndicator
+CubeFlipBlockIndicator 1.0 CubeFlipBlockIndicator.qml
+CubeGradientCircleIndicator 1.0 CubeGradientCircleIndicator.qml
+CubePulseBlocksIndicator 1.0 CubePulseBlocksIndicator.qml
+CubeQuickLoadingIndicator 1.0 CubeQuickLoadingIndicator.qml
+CubeTopplingBlocksIndicator 1.0 CubeTopplingBlocksIndicator.qml

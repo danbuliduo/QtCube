@@ -1,0 +1,8 @@
+﻿module CubeQuick.Controls
+CubeCheckBox 1.0 CubeCheckBox.qml
+CubeElevationRectangle 1.0 CubeElevationRectangle.qml
+CubeFastBlurItem 1.0 CubeFastBlurItem.qml
+CubeGlowRectangle 1.0 CubeGlowRectangle.qml
+CubeOpacityMaskItem 1.0 CubeOpacityMaskItem.qml
+CubeTabBar 1.0 CubeTabBar.qml
+CubeTabButton 1.0 CubeTabButton.qml

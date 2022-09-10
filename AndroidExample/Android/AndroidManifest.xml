@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="io.kanbuki.QtCube" android:installLocation="auto" android:versionCode="1" android:versionName="1.0.0-Alpha">
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true"/>
+    <application android:name="org.qtproject.qt.android.bindings.QtApplication" android:hardwareAccelerated="true" android:label="QtCube" android:requestLegacyExternalStorage="true" android:allowNativeHeapPointerTagging="false" android:allowBackup="true" android:fullBackupOnly="false" android:icon="@drawable/icon">
+        <activity android:name="org.qtproject.example.MainActivity" android:configChanges="orientation|uiMode|screenLayout|screenSize|smallestScreenSize|layoutDirection|locale|fontScale|keyboard|keyboardHidden|navigation|mcc|mnc|density" android:label="QtCube" android:launchMode="singleTop" android:screenOrientation="unspecified" android:exported="true" android:theme="@style/splashScreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <meta-data android:name="android.app.lib_name" android:value="Example"/>
+            <meta-data android:name="android.app.arguments" android:value=""/>
+            <meta-data android:name="android.app.extract_android_style" android:value="minimal"/>
+            <meta-data android:name="android.app.splash_screen_drawable" android:resource="@drawable/splashscreen"/>
+            <meta-data android:name="android.app.splash_screen_sticky" android:value="true"/>
+        </activity>
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <!--位置信息获取权限-->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <!--悬浮窗口权限-->
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <!--振动器权限-->
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+    <!--指纹权限-->
+
+</manifest>
